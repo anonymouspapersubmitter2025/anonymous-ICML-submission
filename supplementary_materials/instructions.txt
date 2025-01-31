@@ -1,0 +1,1 @@
+Please open the 'CRFinal.csv' using pandas read_csv if spreadsheet software is unable to handle it. 
